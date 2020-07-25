@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am experienced old computer dude. My some calls me a relic - hmmm.  I've started with VIC 20 and now I'm doing ASP.Net for money. But in my spare time I'm learning Python and JS. I've got repositories on Scratch because I'm customising it to refresh a project I did in UNI to visualise a functional language.
+
+I could use some resources on Python advanced programming and similar for Typescript and JS.
+
+Any employers looking at this - yes I am available.
+
 <!--
 **Salik-Rafiq/Salik-Rafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
